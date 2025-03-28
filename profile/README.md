@@ -36,7 +36,7 @@ Dissenyar una solució tecnològica que empoderi la ciutadania per entendre i re
 
 ## Organitza
 
-![Organitzadors](/img/logos.png)
+![Organitzadors](https://github.com/Hackathon-Tecnocampus-2025/.github/blob/main/profile/img/logos.png)
 
 ## Col·labora
-![Col·labora](/img/ajuntament.png)
+![Col·labora](/img/https://github.com/Hackathon-Tecnocampus-2025/.github/blob/main/profile/img/ajuntament.png)
