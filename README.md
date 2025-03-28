@@ -34,4 +34,4 @@ L'organització confeccionarà equips de màxim 5 participants, seran equips het
  
 Dissenyar una solució tecnològica que empoderi la ciutadania per entendre i reduir el consum d'aigua, incentivant el consum responsable i promovent una cultura de sensibilització i corresponsabilitat.
 
-![Organitzadors](/tecnocampus.jpg)
+![Organitzadors](./tecnocampus.jpg)
