@@ -34,8 +34,7 @@ L'organització confeccionarà equips de màxim 5 participants, seran equips het
  
 Dissenyar una solució tecnològica que empoderi la ciutadania per entendre i reduir el consum d'aigua, incentivant el consum responsable i promovent una cultura de sensibilització i corresponsabilitat.
 
-## Organitza
-
+## Organitza
 ![Organitzadors](https://github.com/Hackathon-Tecnocampus-2025/.github/blob/main/profile/img/logos.png)
 
 ## Col·labora
